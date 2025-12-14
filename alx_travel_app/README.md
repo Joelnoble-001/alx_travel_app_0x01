@@ -13,3 +13,8 @@
 - PUT/PATCH: Update data
 - DELETE: Delete data
 
+### Payment
+
+- Chapa setup steps
+- Environment variables
+- API endpoints
